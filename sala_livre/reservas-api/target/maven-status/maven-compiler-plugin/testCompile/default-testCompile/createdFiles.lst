@@ -1,0 +1,5 @@
+br\ifsp\reservas_api\ReservasApiApplicationTests.class
+br\ifsp\reservas_api\service\UsuarioServiceTest.class
+br\ifsp\reservas_api\controller\AuthControllerTest.class
+br\ifsp\reservas_api\controller\ReservaControllerTest.class
+br\ifsp\reservas_api\service\ReservaServiceTest.class
